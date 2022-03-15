@@ -4,3 +4,4 @@
 - Kinan likes manta rays.
 
 - Alejandro's favorite animals are cats and I guess red pandas too.
+- Lindsey's favorite animals are cats and penguins :) 
