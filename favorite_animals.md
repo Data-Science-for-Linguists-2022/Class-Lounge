@@ -10,3 +10,4 @@
 - Alejandro once again, turtles too!
 - Lindsey's favorite animals are cats and penguins :) 
 - Emma likes goats and beavers
+- Sean's favorite animal is a Wooley Mammoth (did I spell that right?)
