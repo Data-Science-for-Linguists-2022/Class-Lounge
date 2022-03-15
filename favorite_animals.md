@@ -4,3 +4,6 @@
 - Kinan likes manta rays.
 
 - Alejandro's favorite animals are cats and I guess red pandas too.
+
+- Tianyi likes red pandas
+
