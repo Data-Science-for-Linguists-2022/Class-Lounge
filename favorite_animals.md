@@ -8,5 +8,6 @@
 =======
 
 - Alejandro's favorite animals are cats and I guess red pandas too.
-- Lindsey's favorite animals are cats and penguins :) 
+- Lindsey's favorite animals are cats and penguins :)
+- Misha thinks fox-face Pomeranians are cute *smiley-face*
 >>>>>>> b4565d71b55dcec270d0b94bf875fc83e85d80cd
