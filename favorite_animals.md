@@ -21,4 +21,5 @@
 - Alejandro once again, turtles too!
 - Alejandro's favorite animals are cats and I guess red pandas too.
 - Lindsey's favorite animals are cats and penguins :) 
+- Sean's favorite animal is a Wooley Mammoth (did I spell that right?)
 
