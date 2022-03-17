@@ -1,2 +1,6 @@
-# TITLE
+# [Latin Indirect Speech](https://github.com/Data-Science-for-Linguists-2022/Latin-Indirect-Speech)
+## Ben Miller
+Hi, thank you for looking at my project!
 
+### Alejandro's Notes:
+I think this project will be very interesting and ripe for deep linguistic analysis. I don't know anything about Latin, so learning about the two ways one can communicate indirect speech is extremely interesting. I definitely see the second way's lingering presence in Romance languages as well. However, I suggest you give more examples on indirect speech or clarify what counts as direct/indirect speech since the examples you give for indirect latin speech translated differently than the example you gave in English. Maybe just state how this is indirect speech. Also, I absolutely love grammar (so I may be biased in saying this), but I think you could give a deeper explanation of how the various components of the sentence work to form indirect speech in your examples. But overall, I think you did an extremely good job on encountering data that will contribute towards your project.
