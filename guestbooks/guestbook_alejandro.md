@@ -23,3 +23,18 @@ If the latter, how do you plan to select the samples?
 - **One thing I learned:**
 It was interesting how you parsed the dialogue for Hollow Knight using two different file formats, though you were lucky to have found a data source that was so well-formatted.
 Also, your use of `IPython.display` looks like it'd be really useful for getting nicer-looking output (though I'm not sure what it's meant to do since it looks the same to me on GitHub).
+
+
+### Rohan's Notes:
+
+Something I liked: I love the concept, and I really liked the way you organized your data: it was really easy to get a good idea
+of your data without having to wade through it myself (which would have been especially difficult since it was in pickled
+format). I'm really excited to see what you find on the sociolinguistic variations between and within games.
+
+Something to improve: I thought you were really ambitious, but I wasn't quite sure what the end goal of your project was. You
+seemed to have a lot of different questions to answer, and I wasn't sure which was your main one and how feasible it was with
+your dataset. A little clarity on that would be much appreciated.
+
+Something I learned: I've played a good number of video games myself, but I've never delved into the ones you're analyzing here,
+so I learned a lot about the structure of these intensive world-building games! I've never thought about how much written material
+there is in your standard RPG, but I'm looking forward to seeing your analysis.
