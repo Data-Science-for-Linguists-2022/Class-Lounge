@@ -1,4 +1,6 @@
-# TITLE
+# [ESL Syntactic Analysis](https://github.com/Data-Science-for-Linguists-2022/esl-syntactic-analysis)
+
+###### Tianyi Zheng, tiz65@pitt.edu
 
 ## Rohan's Notes
 
@@ -9,5 +11,5 @@ Something to improve - There was a good amount of description and analysis, but 
 wasn't entirely sure what some of the measurements you mentioned were, and you didn't go into detail about them. I would have
 liked a little more description and consideration of your audience's knowledge level in the analysis.
 
-Something I learned - Your data set was really interesting! I thought it was fascinating how uneven the language counts were 
+Something I learned - Your data set was really interesting! I thought it was fascinating how uneven the language counts were
 compared to the ETS data we've worked with as a class.
