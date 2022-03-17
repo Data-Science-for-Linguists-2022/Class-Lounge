@@ -12,3 +12,11 @@
 
 ### Alejandro's Notes
 This is an extremely interesting research project. I am extremely impressed at the data (and very surprised that it's free) and I think you will do amazing with it. I also am surprised to learn just how varied childhood linguistic development research can get as I assumed it would mostly be geared towards only the psychological side of things. However, I am a bit confused about what exactly you will be doing in the project. If I understand correctly from reading your `project_plan.md`, the bulk of your project is analyzing the dataset itself and highlighting the tools that came along with it. Could you add specific research questions with this?
+
+### Ben's Notes
+I think this is a very interesting project; I had never heard of
+these data sets before and they look to have a lot of information within them.
+If I had one critique, it would be that due to the complex nature of the project,
+I would add some description of what the UDS data set contains and how it can be used,
+as I was initially a bit confused by it.
+
