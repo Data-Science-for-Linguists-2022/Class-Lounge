@@ -24,3 +24,5 @@ I liked how you acknowledged potential problems with the data, like the high num
 by Wesley Willis, which could skew the data.
 One possible improvement could be to pick a license, as the project currently has an empty `LICENSE.md` file.
 
+## Alejandro's Notes
+Extremely interesting topic you picked! I had no idea there was an exact term for music made by beginners. As for the repository itself, I really like that your whole project seems very approachable and that you have your hypothesizes listed directly in your `project_plan.md`. For improvement, could you elaborate on how the classifier you mentioned would highlight the most important distincts between insider and outsider music, as well as how you plan to use those differences in linguistic analysis?
