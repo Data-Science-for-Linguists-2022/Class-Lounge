@@ -1,6 +1,8 @@
 # [UN PARALLEL CORPORA ANALYSIS](https://github.com/Data-Science-for-Linguists-2022/UN-Parallel-Corpora-Analysis)
 ### Kinan Al-Mouk, Na-Rae Han, March 15th 2022
 
+## Thank You!!
+
 #### Emma's Entry:
 3-17-2022
 - **What was done well:** I really liked the organization of the README. This made it super easy to get acquainted with all the files (and the links made it easy to find them!). The jupyter notebook is also super organized, with links to each section!
