@@ -14,6 +14,14 @@ liked a little more description and consideration of your audience's knowledge l
 Something I learned - Your data set was really interesting! I thought it was fascinating how uneven the language counts were
 compared to the ETS data we've worked with as a class.
 
+## Misha's Feedback
+
+**One thing that was done well:** I really like your visuals and I'm glad to see that you have an idea of how to operationalize syntactic complexity
+
+**One avenue for improvement or suggestion:** You might want to include a little bit of info about how these measures of syntactic complexity can be found and quantified in/from the data
+
+**One thing I learned:** PELIC has POS tagging, that rocks!
+
 ## Kinan's Notes
 
 Something I liked - The data sample was cool to see because it puts into perspective how you are going to move forward with this and what you're going to be analyzing from your project plan.
