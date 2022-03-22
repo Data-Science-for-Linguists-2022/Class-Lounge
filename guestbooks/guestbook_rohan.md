@@ -24,6 +24,10 @@ How the project is going: https://github.com/Data-Science-for-Linguists-2022/Fan
 
 **One thing I learned:** Using BeautifulSoup for webscraping
 
+
+**Rohan's response:** Thank you so much for commenting! I'll go through and add more detail about several things when I'm cleaning up before I submit my second progress report.
+
+
 ## Kinan's Feedback
 
 **One thing that was done well:** Your project plan is very easy to follow.
