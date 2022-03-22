@@ -32,3 +32,14 @@ One possible improvement could be to pick a license, as the project currently ha
 Extremely interesting topic you picked! I had no idea there was an exact term for music made by beginners. As for the repository itself, I really like that your whole project seems very approachable and that you have your hypothesizes listed directly in your `project_plan.md`. For improvement, could you elaborate on how the classifier you mentioned would highlight the most important distincts between insider and outsider music, as well as how you plan to use those differences in linguistic analysis?
 
 ***Thanks, Alejandro!  I'm hoping to use the Naive Bayes model at this point, since it's transparent about the most informative features.  I'll make sure to include that explanation in my final repository, as you said! --Emma***
+
+## Tianyi's Notes
+
+- **One thing I liked:**
+I think you did a very good job of clearly conveying the purpose of your project and defining necessary to your potential audience (myself included) in your project plan.
+
+- **One thing that could be improved:**
+Could you elaborate on what features you plan to study for your analysis (syntax, vocabulary, etc.)?
+
+- **One thing I learned:**
+I didn't know that "outsider music" was even a term, so it's very interesting that you're studying this style (?) of music for your project.
