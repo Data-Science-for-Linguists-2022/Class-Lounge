@@ -41,3 +41,11 @@ your dataset. A little clarity on that would be much appreciated.
 Something I learned: I've played a good number of video games myself, but I've never delved into the ones you're analyzing here,
 so I learned a lot about the structure of these intensive world-building games! I've never thought about how much written material
 there is in your standard RPG, but I'm looking forward to seeing your analysis.
+
+## Misha's Feedback
+
+**One thing that was done well:** You have some really great coding in your project already, stuff that's way above my paygrade! Great start at considering your linguistic research questions
+
+**One avenue for improvement or suggestion:** I'd be interested in seeing more about how you operationalize your variables for pragmatics and discourse
+
+**One thing I learned:** I'd never thought of it that way, but it makes sense that video game dialogue is going to break gricean maxims 
