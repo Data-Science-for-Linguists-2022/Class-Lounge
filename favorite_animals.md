@@ -18,3 +18,4 @@
 
 - Sean's favorite animal is a Wooley Mammoth (did I spell that right?)
 - Emma likes goats and rats
+- Man Ho likes dogs
