@@ -21,3 +21,10 @@ Also, how will the subjunctive mood ("It's best that he go soon", etc.) be diffe
 I hadn't known that the structure of complementizer phrases was something that had changed so drastically in Latin.
 Is it known when the "quod" construction first arose in Latin texts?
 I'd love to see more background info about this topic.
+
+### Rohan's Notes:
+- **One thing I liked:** I liked the neatness of your scripts! I had no trouble understanding what you were doing or what it meant, even though I don't speak Latin.
+
+- **One thing that could be improved:** I would have actually liked to see a little more of your process as you were cleaning and organizing your data. As it was all in a separate python script, it wasn't terribly interactive, and there could have been more comments explaining each part.
+
+- **One thing I learned:** Your dataset looks really interesting, and I thought the shift in how indirect speech was written could definitely be used in a larger linguistic analysis of Latin. I was also surprised at how much of your data used the accusative to form indirect phrases.
