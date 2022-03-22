@@ -42,10 +42,19 @@ Something I learned: I've played a good number of video games myself, but I've n
 so I learned a lot about the structure of these intensive world-building games! I've never thought about how much written material
 there is in your standard RPG, but I'm looking forward to seeing your analysis.
 
+
 ## Misha's Feedback
 
 **One thing that was done well:** You have some really great coding in your project already, stuff that's way above my paygrade! Great start at considering your linguistic research questions
 
 **One avenue for improvement or suggestion:** I'd be interested in seeing more about how you operationalize your variables for pragmatics and discourse
 
-**One thing I learned:** I'd never thought of it that way, but it makes sense that video game dialogue is going to break gricean maxims 
+**One thing I learned:** I'd never thought of it that way, but it makes sense that video game dialogue is going to break gricean maxims
+
+### Man Ho's Notes:
+
+Something I liked: You have a very interesting and ambitious project! Your project can get quite complicated as it develops but you also have well-organized directory and data structures.
+
+Something to improve: You may need to explain what game writing is about. Since I have not played RPGs, I am a bit unsure what exactly happens during a game, e.g. how dialogues in a game differ from real-life conversations? What are the formats, e.g. audio or text? What do people usually talk about in a game? Lastly, does "game writting" mean? Does it mean writting a script or a story about the fictional world of the game?
+
+Something I learned:  I like that you have an overview JNB to connnect every work you've done together. I will also do this for my project!
