@@ -23,3 +23,11 @@ I would add some description of what the UDS data set contains and how it can be
 as I was initially a bit confused by it.
 
 > Thanks, Ben! It took me a while initially to figure out what UDS was too, and I'm still figuring it out! There is a paper that goes along with it that I linked from my project plan file, but I should also write up a summary about the UDS dataset (or at least something about it) to go along with the other stuff in my repo. 
+
+### Rohan's Notes:
+
+- **One thing I liked:** Your project is fascinating! I really like the idea of taking two datasets that study different things and examining them through the context of the other one. I hope you get all your data figured out, I think the analysis should be fascinating!
+
+- **One thing that could be improved:** Your initial exploration notebook was really interesting, but it sometimes felt like a little too much was being printed. There were several point where I had to scroll through pages on pages of data to get to the next analysis, so it could be a little cleaner.
+
+- **One thing I learned:** The existence of the UDS and CHILDES datasets! The CHILDES one sounds particularly interesting, I'm really excited to see what you do with it.
