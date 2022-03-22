@@ -12,7 +12,7 @@ How the project is going: https://github.com/Data-Science-for-Linguists-2022/Fan
 
 **One thing that was done well:** Your tag parsing BeautifulSoup function is incredibly impressive. It's easy to follow code-wise and the meta-data that you've gotten out of it is fantastic
 
-**One avenue for improvement or suggestion:** I'd be really interested to know what kinds of hypotheses you might have about your classifier. I think it'll have a pretty easy time classifying by relationship, and fandom goes without saying. You might want to look into rating and see how it does, that could be useful for AO3 users, they could use your classifier as a fun little way of suggesting a rating before publishing.
+**One avenue for improvement or suggestion:** I'd be really interested to know what kinds of hypotheses you might have about your classifier. I think it'll have a pretty easy time classifying by relationship, and fandom goes without saying. You might want to look into rating and see how it does, that could be useful for AO3 users, they could use your classifier as a fun little way of suggesting a rating before publishing. Also check out Michael Yoder's github for his dissertation if you get the chance [Michael Yoder's dissertation](https://michaelmilleryoder.github.io/)
 
 **One thing I learned:** I'm really interested in this BeautifulSoup parser and maybe looking into html/metadata parsing in the future!
 
