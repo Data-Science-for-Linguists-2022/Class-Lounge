@@ -17,6 +17,8 @@ I think we're all finding each other's projects to be super interesting, but I w
 
 - **One thing I learned:** I didn't realize there was a package to go along with lyrics from Genius. I'm always surprised and fascinated to find out that if you want to do something, someone has probably already created a tool for you to do so! Super cool.
 
+***Thank you!  I'm hoping to add a bit more to my README to make the project even easier to navigate (along with fixing those links!). --Emma***
+
 ## Ben's Notes
 As a fan of outsider music, I really love your project idea!
 I think you have a very clear research question and data acquisition strategy.
@@ -24,3 +26,9 @@ I liked how you acknowledged potential problems with the data, like the high num
 by Wesley Willis, which could skew the data.
 One possible improvement could be to pick a license, as the project currently has an empty `LICENSE.md` file.
 
+***Thanks!  I may try to collect more data or just excerpt Wesley Willis's discography to fix that skew.  And thank you for the license reminder! --Emma***
+
+## Alejandro's Notes
+Extremely interesting topic you picked! I had no idea there was an exact term for music made by beginners. As for the repository itself, I really like that your whole project seems very approachable and that you have your hypothesizes listed directly in your `project_plan.md`. For improvement, could you elaborate on how the classifier you mentioned would highlight the most important distincts between insider and outsider music, as well as how you plan to use those differences in linguistic analysis?
+
+***Thanks, Alejandro!  I'm hoping to use the Naive Bayes model at this point, since it's transparent about the most informative features.  I'll make sure to include that explanation in my final repository, as you said! --Emma***

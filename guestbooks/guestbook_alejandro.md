@@ -5,6 +5,9 @@
 ## Background Information
 I wanted to do this project because I wanted to see what sociolinguistic phenomena occur in video-game dialogue, I also just enjoy games and game design, and thought this would be a great way to combine two of my passions. I hope you all enjoy it!
 ***
+## Thanks!
+I want to say thank you to everyone who visits this repository. Your feedback is very valuable to me!
+***
 ## Notes:
 
 ### Tianyi's Feedback

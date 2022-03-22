@@ -13,3 +13,11 @@ liked a little more description and consideration of your audience's knowledge l
 
 Something I learned - Your data set was really interesting! I thought it was fascinating how uneven the language counts were
 compared to the ETS data we've worked with as a class.
+
+## Kinan's Notes
+
+Something I liked - The data sample was cool to see because it puts into perspective how you are going to move forward with this and what you're going to be analyzing from your project plan.
+
+Something to improve - The readme could be a bit more organized. Maybe describe each file?
+
+Something I learned -The history plot with seaborn was really cool to see
