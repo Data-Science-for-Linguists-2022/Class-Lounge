@@ -1,7 +1,11 @@
-# TITLE
+# Russian Textbook Vocab Analysis
+**Author**: Michael O'Brien
+**Repo link**: [Textbook_Vocab_Analysis](https://github.com/Data-Science-for-Linguists-2022/Textbook_Vocab_Analysis)
 
 ## Kinan's Feedback
 Hi Misha! I looked at your project and I am slighly lost a little. I know how you feel about getting lost in the data, my project is also giving me a really hard time with getting everything. Where the code didnt explain, your project plan did so thats really good. I like how its one of your goals to encode Cyrillic. I also like how you chose to go with Russian, the  thing i remember about when we first met was how interested you were in Russian langauge so I'm really excited to see the work you do with this. I would reccomend combining the two progress reports, unless its written somewhere that we shouldn't.
+
+Hey Kinan, thanks for the suggestions and feedback. I found out that I can just copy and paste from the textbook pdfs into plain text so I'll be going low-fi for that bit to work it out :)
 
 ## Man Ho's Feedback
 
@@ -14,11 +18,15 @@ You may need to check the type of encoding your file has.
 
 **One thing I learned:** Reading and parsing non-latin letters are not straightforward...
 
+Hello Man Ho, thank you for your feedback, yeah the packages I imported weren't tons of help, so like I responded to Kinan's comments, going low-fi this time!
+
 ## Emma's Feedback
 3-21-2022
 - **What was done well:** I was really impressed by how concrete your project plan is.  You've made your end goal very clear! I also appreciate that even with bumps in the road, you've kept a detailed log on the issues and your steps to approach them.
 - **What could be improved:** You may want to include a sample of your raw data at this point.  Publishing a whole PDF would be infeasible, but there may be a sample page that's already public (i.e., preview on the selling page) that could be included.
 - **One thing I learned:** I had previously been unaware of PDF text extraction packages.  When I read your project plan, my first thought was OCR, which seemed very daunting (to me at least). I'm impressed that you're working with tangible text data--that's an entirely different beast from a lot of the other projects. I hope that the pre-packaged PDF readers will work for you!
+
+Hi Emma, thank you so much for your comments, I agree adding some preliminary data so others can see what's going on will be really useful! Now that I have a way to get my data into plain text, I think things will start to run more smoothly!
 
 ## Caroline's entry (2022-03-22)
 
@@ -26,4 +34,6 @@ You may need to check the type of encoding your file has.
 
 - **Possible improvements:** Along with your code that's returning an error, you could maybe include some commentary about what you were intending to do with the code or what you thought would happen. This often helps me think through what I need to do.
 
-- **One thing I learned:** It's my first time hearing about "plumbing a PDF"! 
+- **One thing I learned:** It's my first time hearing about "plumbing a PDF"!
+
+Hello Caroline, your note about including comments is really great! there are times that I forget about that kind of stuff. It will make it easier for folks to offer suggestions to the code, so thank you!
