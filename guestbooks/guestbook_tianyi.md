@@ -21,3 +21,11 @@ Something I liked - The data sample was cool to see because it puts into perspec
 Something to improve - The readme could be a bit more organized. Maybe describe each file?
 
 Something I learned -The history plot with seaborn was really cool to see
+
+## Man Ho's Notes
+
+Something I liked - The topic is very interesting. I wonder how much a learner's English syntax reflects the learner's L1. The difference in syntax among learners of different L1s may be very subtle, particularly if you are comparing learners of the same English proficiency/ level. It is a good idea to look at many metrics at the same time.
+
+Something to improve - I think you can include the definitions of different labels in your data. For example, what are the 'level_id's? How are they related to proficiency level A1 to C2? Besides, the dataset has an unequal distribution of L1s. This will likely affect the accuracy of your predictive analysis, if that's what you plan to do with the data. You may need to figure out how to overcome this class imbalance problem.
+
+Something I learned - TAASCC is a very convenient tool to measure multiply linguistic metrics simultaneously!
