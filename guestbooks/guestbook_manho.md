@@ -16,3 +16,11 @@ Taking a look at your project plan it is very easy to follow, the links to thing
 - **What I learned:** It's super interesting to see the structure of this corpus--it's very different from what we've looked at in class and from the data I've seen in my project.  I'm not familiar with .CHAT files, so seeing the metadata analysis with CHAT tools was very cool.
 
 > @Emma: Thanks! I think the schedule table helps me track my progress easier. I have updated the README.md file of the repo and I will add more info later. I hope this will help you navigate the repo. (Mar 22, 2022)
+
+## Caroline's entry (2022-03-22)
+
+- **What was done well:** Your visualizations are always so well done. They are all well laid out and informative. The timeline you included in your *project_plan.md* was also a cool feature. Hopefully you've been able to stay on track with what you initially intended to do!
+
+- **Possible improvements:** Since some of your notebooks are long but are already broken up nicely with appropriate headers, it may be beneficial to add a table of contents at the beginning of them so that each of the sections are more easily accessible.
+
+- **One thing I learned:** I overall just learned more about `pylangacq`. I, too, am using CHILDES CHAT data for my secondary dataset and have begun working through the dataset with the basic features of `pylangacq`, but I haven't utilized everything I want to yet, so it was nice to see someone who has used it!
