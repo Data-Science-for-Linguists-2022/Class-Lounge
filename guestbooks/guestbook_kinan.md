@@ -21,3 +21,11 @@ I think I'm writing this literally as you are making changes to your various fil
 
 ## Alejandro's Notes
 I don't know much about the _United Nations_, so I would've assumed they would have more than only 6 official languages. Nevertheless, an extremely interesting research project, and I absolutely love your repository's organization. I also appreciate how well-kept the `README.md` is and how all files in the repository serve a purpose and are given a clear explanation for their existence. However, I was wondering if you could specify more so the research you plan on doing. You mention analyzing things like hapaxes and TTR and other linguistic features, but what do you plan to do with these things in-context? Also, how do you plan to communicate what exactly the differences are between different language translations?
+
+## Ben's Notes
+I really liked your README file - it made it simple to get a high-level overview of your project's structure.
+One improvement could be some more info in the data gathering notebook - for example, why you chose the
+dataframe layout that you did.
+One thing I learned was the official languages of the UN - I would have assumed it was those of the security council,
+but it was cool to see Spanish and Arabic there as well!
+
