@@ -24,3 +24,11 @@ Taking a look at your project plan it is very easy to follow, the links to thing
 - **Possible improvements:** Since some of your notebooks are long but are already broken up nicely with appropriate headers, it may be beneficial to add a table of contents at the beginning of them so that each of the sections are more easily accessible.
 
 - **One thing I learned:** I overall just learned more about `pylangacq`. I, too, am using CHILDES CHAT data for my secondary dataset and have begun working through the dataset with the basic features of `pylangacq`, but I haven't utilized everything I want to yet, so it was nice to see someone who has used it!
+
+## Ben's feedback
+I thought your project plan and readme were very well organized.
+I liked how you had a file going over `pylangacq` and its functions,
+and thought your plots were well made. I definitely learned a few things about plotting I didn't know before.
+One improvement, like Caroline said, could be adding links to each section at the top of the notebook - especially
+since the sections are so well thought out.
+
