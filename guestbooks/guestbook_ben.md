@@ -32,3 +32,18 @@ I'll try to find some background information on the development of the different
 since that would definitely flesh out the project.
 Thank you for the feedback!
 
+### Rohan's Notes:
+- **One thing I liked:** I liked the neatness of your scripts! I had no trouble understanding what you were doing or what it meant, even though I don't speak Latin.
+
+- **One thing that could be improved:** I would have actually liked to see a little more of your process as you were cleaning and organizing your data. As it was all in a separate python script, it wasn't terribly interactive, and there could have been more comments explaining each part.
+
+- **One thing I learned:** Your dataset looks really interesting, and I thought the shift in how indirect speech was written could definitely be used in a larger linguistic analysis of Latin. I was also surprised at how much of your data used the accusative to form indirect phrases.
+
+## Misha's Feedback
+
+**One thing that was done well:** You have an excellent start to a really good/straightforward variationist analysis of indirect speech in Latin. Computational methods are great for this, you'll be able to find plenty of data and modeling should run pretty smoothly.
+
+**One avenue for improvement or suggestion:** Have you thought about the features that are likely to predict the use of one form over another? Were these forms ever in competition, meaning there are predictable constraining features or are they in complementary distribution?
+
+**One thing I learned:** There are multiple ways for expressing indirect speech in latin!
+
