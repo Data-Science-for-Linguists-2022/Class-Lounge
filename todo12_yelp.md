@@ -27,3 +27,10 @@ As the number of lines climbed past 100,000, the runtime climbed past a few minu
 Once I reached 10 million, though, my computer was no longer able to process the data as the swap space completely occupied all remaining space on my hard drive.
 With that in mind, clearly I'd need to increase my computer's RAM capacity and hard drive space in order to process any larger amounts of data.
 
+## Ben
+
+- I completed this on my Dell laptop, which has a 2.21 GhZ six-core Intel i7 and 16 GB of RAM.
+I was able to do 1 million, with a max of ~34% CPU usage and 5.3 GB RAM usage (by Python).
+I then tried 1.5 million, at which point I ran out of RAM and my PC froze.
+If I had closed as many programs as possible, I likely could have done a bit more than 1 million.
+
