@@ -34,3 +34,6 @@ I was able to do 1 million, with a max of ~34% CPU usage and 5.3 GB RAM usage (b
 I then tried 1.5 million, at which point I ran out of RAM and my PC froze.
 If I had closed as many programs as possible, I likely could have done a bit more than 1 million.
 
+## Man Ho
+
+- My 8-year-old ThinkPad laptop did ok! It has 500 GB disk space, 12GB memory and 2.40 GHz Intel i3-4000M CPU. I could process 100,000 lines within seconds, but when I tried 1M, it took too long that I stopped running. The CPU usage went up to 50% and the RAM usage was increased by about 2 GB. I was using Edge browser with more than 10 tabs open though... My laptop was not frozen and I could still run other programs at the same time.
