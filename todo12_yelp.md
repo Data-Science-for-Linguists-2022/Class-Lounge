@@ -21,7 +21,7 @@
 
 ## Tianyi
 
-I completed this To-Do on my 2017 MacBook Pro, which has a 2.3 GHz dual-core Intel i5 processor and 8 GB of RAM.
+- I completed this To-Do on my 2017 MacBook Pro, which has a 2.3 GHz dual-core Intel i5 processor and 8 GB of RAM.
 It was able to handle the dataset decently, and I was able to process up to 1 million lines.
 As the number of lines climbed past 100,000, the runtime climbed past a few minutes, RAM usage got close to the 8-GB limit, and CPU usage occasionally spiked as high as 80%.
 Once I reached 10 million, though, my computer was no longer able to process the data as the swap space completely occupied all remaining space on my hard drive.
