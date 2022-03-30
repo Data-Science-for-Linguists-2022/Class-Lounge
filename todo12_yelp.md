@@ -37,3 +37,10 @@ If I had closed as many programs as possible, I likely could have done a bit mor
 ## Man Ho
 
 - My 8-year-old ThinkPad laptop did ok! It has 500 GB disk space, 12GB memory and 2.40 GHz Intel i3-4000M CPU. I could process 100,000 lines within seconds, but when I tried 1M, it took too long that I stopped running. The CPU usage went up to 50% and the RAM usage was increased by about 2 GB. I was using Edge browser with more than 10 tabs open though... My laptop was not frozen and I could still run other programs at the same time.
+
+## Rohan
+
+- Sorry this is late! I did not think to close everything out the first time I ran it, so with my usual 20-something tabs open in Chrome, Microsoft Word, Atom, Spotify, and Teams all open, I could run 1M files... but my computer's memory usage skyrocketed to 95%. It only took about three minutes though, and I could do other stuff while it was running.
+- After I opened this file and saw that everyone else closed stuff out before they ran it, I tried again and got up to 10M before my memory completely filled up and my laptop started screaming at me. It took a good ten minutes to process though. Shockingly, even at this amount of processing, my CPU usage never went above 65% and stayed in the teens for most of the run-time, and neither of my GPUs heated up as much as I'm used to when I game.
+- At 10M I finally got a memory error, which I was expecting seeing as I only have 15.4 GB of RAM. I'm shocked I could get it up that far honestly.
+- Speaking of, my laptop stats! I used my HP Omen laptop, which is a little over a year old (I got it in December 2020). It has a 2.9 GHz dual-core AMD Ryzen processor and 16 GB of RAM (15.4 usable). It's a pretty hardcore gaming laptop, but the RAM and disk space were just not up to this amount of data.
