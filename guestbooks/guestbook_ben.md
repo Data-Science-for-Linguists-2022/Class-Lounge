@@ -47,3 +47,15 @@ Thank you for the feedback!
 
 **One thing I learned:** There are multiple ways for expressing indirect speech in latin!
 
+### Kinan's Feedback
+
+- **What was done well:**
+  - The citations at the progres plan is a good idea and now that I am going to be uisng spacy im gonna steal this from you <3 xoxo I also like the overview of the daat except the first code output cell kind of through me for a loop for a sec.
+
+- **What could be improved:**
+  - Your Read Me can have some descriptions of what each file means, I know we just moved on and got the requirements for progress report 3 so thats probably what you're going to be working on anyways. 
+
+- **One thing I learned:**
+  - Subordinatitng cojunctions are good bc they explain the lingusitic contexts of whats going on. quod - because
+
+
