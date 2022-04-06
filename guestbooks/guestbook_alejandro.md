@@ -58,3 +58,16 @@ Something I liked: You have a very interesting and ambitious project! Your proje
 Something to improve: You may need to explain what game writing is about. Since I have not played RPGs, I am a bit unsure what exactly happens during a game, e.g. how dialogues in a game differ from real-life conversations? What are the formats, e.g. audio or text? What do people usually talk about in a game? Lastly, does "game writting" mean? Does it mean writting a script or a story about the fictional world of the game?
 
 Something I learned:  I like that you have an overview JNB to connnect every work you've done together. I will also do this for my project!
+
+
+### Kinan's Feedback
+
+- **What was done well:**
+  -  I like the data_description.md file I think that its honestly really useful for your project and your data sources specifically since you obtained a lot of data from various sources/ different games. 
+
+
+- **What could be improved:**
+  - I don't know much about these games so maybe a link to the websites or youtube videos on what they are just so that people who don't know can properly visualize whats going on and picture it in their heads as they read through the project would really help your code come to life. 
+
+- **One thing I learned:**
+  - overview.ipynb is cool
