@@ -43,3 +43,5 @@ Could you elaborate on what features you plan to study for your analysis (syntax
 
 - **One thing I learned:**
 I didn't know that "outsider music" was even a term, so it's very interesting that you're studying this style (?) of music for your project.
+
+***Thank you, Tianyi! Defining the exact nature of the analysis was exactly what I was having difficulty with during the project plan, since I wasn't entirely sure what this kind of data analysis would entail.  At the moment, I'm looking mostly into vocabulary, but you highlighted exactly the question I'm encountering at this stage! --Emma***
