@@ -63,11 +63,17 @@ Something I learned:  I like that you have an overview JNB to connnect every wor
 ### Kinan's Feedback
 
 - **What was done well:**
-  -  I like the data_description.md file I think that its honestly really useful for your project and your data sources specifically since you obtained a lot of data from various sources/ different games. 
+  -  I like the data_description.md file I think that its honestly really useful for your project and your data sources specifically since you obtained a lot of data from various sources/ different games.
 
 
 - **What could be improved:**
-  - I don't know much about these games so maybe a link to the websites or youtube videos on what they are just so that people who don't know can properly visualize whats going on and picture it in their heads as they read through the project would really help your code come to life. 
+  - I don't know much about these games so maybe a link to the websites or youtube videos on what they are just so that people who don't know can properly visualize whats going on and picture it in their heads as they read through the project would really help your code come to life.
 
 - **One thing I learned:**
   - overview.ipynb is cool
+
+### Emma's Feedback
+- **What was done well:** Absolutely nailed it with the `data_description.md`.  Having a whole separate file to describe all of the data columns & whatnot is a really good idea, and it definitely helped me get a quick grasp on how everything was structured.  I really like the strong semantic/syntactic background present in the research questions in the analysis notebook (talking about performative speech acts and their conventional constructions).
+- **What could be improved:** It's not a huge detail, but linking the files on the README could make it easier to navigate the repository.  The data description file could include short descriptions of the games and the role of the text data, as well, just so the differences in the nature of each dataset are clear.
+- **One thing I learned:** I had forgotten how much text data can be stored in a video game.  I tend to only think of the coding behind games, but not about the dialogue & narratives within them.  
+(Sidenote: The Elder Scrolls dataset reminded me of this [BDG video](https://www.youtube.com/watch?v=RVdTZhmsGsU)).
