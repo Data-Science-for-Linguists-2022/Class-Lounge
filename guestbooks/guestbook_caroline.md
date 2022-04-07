@@ -24,6 +24,13 @@ as I was initially a bit confused by it.
 
 > Thanks, Ben! It took me a while initially to figure out what UDS was too, and I'm still figuring it out! There is a paper that goes along with it that I linked from my project plan file, but I should also write up a summary about the UDS dataset (or at least something about it) to go along with the other stuff in my repo.
 
+### Misha's Notes:
+- **One thing I liked:** Excellent topic. Child Language Development is a really rich topic! It is a great contribution to apply well developed analytical frameworks to new data so I'm interested to see what you find about implementing that with the Child speech data. Additionally Decompositional Semantics are fascinating (I assume there's some pustejovsky in there somewhere) in how qualia make up our understanding of similar words having very different meanings based on context.
+
+- **One thing to consider:** I'd be interested to know a little bit more about the implications/stakes/hypotheses of the UDS framework as it pertains to child speech data. what do you anticipate that your analysis will bear regarding child speech in comparison to the original data?
+
+- **One thing I learned:** I learned about another model of Decompositional Semantics, so that's always exciting. The coding seems intense! I would give pustejovsky's qualia theory a look if you haven't gotten the chance before.
+
 ### Rohan's Notes:
 
 - **One thing I liked:** Your project is fascinating! I really like the idea of taking two datasets that study different things and examining them through the context of the other one. I hope you get all your data figured out, I think the analysis should be fascinating!
