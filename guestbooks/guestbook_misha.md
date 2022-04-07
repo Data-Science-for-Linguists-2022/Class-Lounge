@@ -40,3 +40,8 @@ Hello Caroline, your note about including comments is really great! there are ti
 
 ## Alejandro's Feedback
 I like this. I haven't really seen textual work that's in another language (let alone another script), so it's interesting to see how that has played out. Something that I like is that you have a very clear goal in mind and it seems very reasonable and manageable. However, I do think you can improve with your repository organization, `README.md`, and overall cleanliness of your Jupyter Notebooks. Something I learned is that Python has libraries for PDFs and PDF text extraction, I did not know that!
+
+# Ben's Feedback
+I liked your README; I think it provides a good overview of the project and your goals.
+However, it could be improved by adding links to and descriptions of the files in your project.
+One thing I learned is that there is a Russian National corpus.

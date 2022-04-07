@@ -49,3 +49,10 @@ How the project is going: https://github.com/Data-Science-for-Linguists-2022/Fan
 - **Possible improvements:** Since you now know more about your project and have a lot of different files, it could be nice to add to your *README.md* file so that visitors can get a general idea of what your project is without having to go through all the code.
 
 - **One thing I learned:** This was my first time encountering spiders and BeautifulSoup! Also, it was quite interesting to see all the different information about the fan fics as a whole.
+
+# Ben's Feedback
+I thought it was very interesting how you were able to get so much data.
+I liked that you showed the data frame and examined parts of it; it makes it easier to understand the project from an outside perspective.
+One possible improvement could be fleshing out the README file, since it is the first impression and a good place to get a high-level overview of the project and its structure.
+One thing I learned was in your data section, where you showed value counts for Rating and Category; I thought the results were interesting.
+
