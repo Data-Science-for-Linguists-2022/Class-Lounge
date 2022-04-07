@@ -46,3 +46,13 @@ Something I learned - TAASCC is a very convenient tool to measure multiply lingu
 - **What was done well:** The fact that you had already chosen to use the TAASCC in your project plan is very impressive--this makes it very clear exactly how you'll go about adding on to the dataset!  This demonstrates an immense amount of foresight and thorough understanding of your project and the methods you'll be using to complete it.  Your progress report is very well-written and clear! Visualizations in the data overview give a very good sense of the data's distribution.
 - **What could be improved:** It would be helpful to have explanations of preexisting data columns (even briefly, since they can probably be found on the original PELIC site).  An explanation of the TAASCC and T-Units would also be helpful.  Overall, I felt that your code, presentation, and analysis were extremely well-designed, but brief or slightly more detailed explanations of the found data and the tools used could be beneficial!
 - **One thing I learned:** It's interesting that the TAASSC didn't catch any discourse markers in the essays.  I'd love to know exactly how it operationalizes discourse markers--if it's looking for spoken markers like "uh, um, like," etc., this result makes sense, but why not consider written markers (first of all, for example, etc.)?  I learned a lot about this syntactic tool, but now I'm extra interested in its inner-workings!
+
+## Caroline's entry (2022-04-07)
+
+- **What was done well:** This is a super cool project! Your initial exploration of the dataset as well as your exploration of the TAASSC output data were very thorough, and you offered good commentary along with the code that made it fairly easy for me to follow along with even though I am not familiar with the dataset. You also utilized visualizations in meaningful ways. 
+
+- **Possible improvements:** For your presentation and also to have in your repo, it may be beneficial to have some brief explanations about the PELIC dataset and the various TAASSC measurements because it can all get very technical for a first time visitor. 
+
+- **One thing I learned:** all about TAASSC! I was very interested to see all the syntactic measurements because we haven't tended to focus on them as much in other assignments. 
+	   
+	   
