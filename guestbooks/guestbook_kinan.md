@@ -29,3 +29,13 @@ dataframe layout that you did.
 One thing I learned was the official languages of the UN - I would have assumed it was those of the security council,
 but it was cool to see Spanish and Arabic there as well!
 
+## Tianyi's Notes
+
+- **What was done well**: I know that pretty much everyone else has said this already but your README is incredibly organized, and I appreciate the quick description of each file in the repo.
+
+- **What could be improved**: I think some commentary added between code blocks would help users understand why you decided to do certain things such as timing the reading of each UN language file.
+Also, I think you could probably do a bit more with some of the provided measures; for example, since you had said that you wanted to analyze hapax legomena, you could count the number of hapaxes for each language using frequency dictionaries.
+
+- **What I learned**: Mandarin appears to have drastically different values for every provided measure.
+I can understand why for most of them, but I think it may have been in part due to how the text was tokenized.
+For example, in the little snippet of the word tokens that I can see in `UN_Data_Analysis.ipynb` it looks like "1994年5月17日安全理事会" ("Security Council of May 17, 1994") is being treated as one token while I would've personally tokenized it as `["1994年", "5月", "17日", "安全", "理事会"]`.
