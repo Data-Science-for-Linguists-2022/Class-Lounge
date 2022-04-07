@@ -41,3 +41,11 @@ How the project is going: https://github.com/Data-Science-for-Linguists-2022/Fan
 - **What was done well:** I really love that you described spiders.  This is a term I've seen multiple times but haven't had a real reason to learn about yet.  You also specified how they must be used, which is very helpful.  This project is super interesting and very well organized. I'm excited to see where it goes!
 - **What could be improved:** Are you collecting the most recent fanfictions on the site? Only the English pages? I couldn't find this specified anywhere (at least not clearly).  I also wasn't able to find the data samples described in your progress_report -- I'm not sure if you intended to leave them unpublished for now!  You may also specify what you mean by 'genre' (or at least give a few examples of what you expect to use).
 - **One thing I learned:** Very intrigued by the Fandom.value_counts() distribution... And I learned about spiders (see the "What was done well" section above)!
+
+## Caroline's feedback (2022-04-07)
+
+- **What was done well:** Your progress reports are very detailed, and I like that in your exploratory JNB you took stock of your DataFrame and the decisions that went into building it.
+
+- **Possible improvements:** Since you now know more about your project and have a lot of different files, it could be nice to add to your *README.md* file so that visitors can get a general idea of what your project is without having to go through all the code.
+
+- **One thing I learned:** This was my first time encountering spiders and BeautifulSoup! Also, it was quite interesting to see all the different information about the fan fics as a whole.
