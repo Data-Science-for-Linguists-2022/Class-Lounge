@@ -55,3 +55,18 @@ In `uds_initial_exploration.ipynb`, most of the Python code blocks were never ru
 - **One thing I learned:** I think it's interesting that not only such datasets exist but also that the UDS organizes its data into a graphical format.
 
 > Thank you, Tianyi! I started out with a decently solid plan, but it has been a struggle to do what I wanted to do with the UDS dataset because it is so massive and comes with its own toolkit. I have now fixed the thing that was causing the error in loading the dataset and toolkit!
+
+### Man Ho's Notes:
+
+- **One thing I liked:**
+I am so happy to find out another CHILDES project! I like your idea of analysing CHILDES data with UDS dataset and toolkit.
+
+- **One thing that could be improved:**
+The error you got in your `childes_exploration.ipynb` when you were trying to get the code tier was probably caused by an utterance (likely utterance 303) which does not have a code tier. There could be more utterances missing code tiers and you may need to add a conditional statement in your list comprehension so that you can escape the error. In 'semi-pseudocode', you could try something like this:
+```
+cod_tier = [u.tiers['%cod'] for u in hicks_utterances if '%cod' in u.tiers.keys()]
+```
+I guess you can then ignore the utterances without code tiers in your analysis.
+
+- **One thing I learned:** 
+It seems like the UDS dataset and decomp toolkit could be useful for me as well! I am not sure if I will have enough time to try them out in my project though...
