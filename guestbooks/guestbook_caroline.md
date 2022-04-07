@@ -47,4 +47,4 @@ In `uds_initial_exploration.ipynb`, most of the Python code blocks were never ru
 
 - **One thing I learned:** I think it's interesting that not only such datasets exist but also that the UDS organizes its data into a graphical format.
 
-> Thank you, Tianyi! I started out with a deecently solid plan, but it has been a struggle to do what I wanted to do with the UDS dataset because it is so massive and comes with its own toolkit. I have now fixed the thing that was causing the error in loading the dataset and toolkit!
+> Thank you, Tianyi! I started out with a decently solid plan, but it has been a struggle to do what I wanted to do with the UDS dataset because it is so massive and comes with its own toolkit. I have now fixed the thing that was causing the error in loading the dataset and toolkit!
