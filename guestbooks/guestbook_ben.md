@@ -58,4 +58,13 @@ Thank you for the feedback!
 - **One thing I learned:**
   - Subordinatitng cojunctions are good bc they explain the lingusitic contexts of whats going on. quod - because
 
+### Man Ho's Feedback
 
+- **What was done well:**
+  - Your Python code is really concise and clear. I liked that all the variables have logical, well-thought names and the naming convention is consistent across scripts.
+
+- **What could be improved:**
+  -  Perhaps I am relatively new to Python so I still need to get used to Python's syntax, but I also think you may want to add more comments in your code. I think good documentation not only helps readers to understand and reuse your code, it would also help you to maintain the code in the future (if you plan to; but it's still a good habit to document). For my own research project, almost half of my code is documentation because I know someone in my lab or our collaborators are going to use it or update the code.
+
+- **One thing I learned:**
+  -  I was not aware of the accusative + infinitive form of indirect speech. Your `oo_introduction.md` was really helpful! I think I should also include more background information in my own term project.
