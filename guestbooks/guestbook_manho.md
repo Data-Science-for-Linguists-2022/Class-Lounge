@@ -32,3 +32,6 @@ and thought your plots were well made. I definitely learned a few things about p
 One improvement, like Caroline said, could be adding links to each section at the top of the notebook - especially
 since the sections are so well thought out.
 
+
+## Alejandro's Feedback
+This is an extremely interesting project and it never occurred to me how in-depth and important childhood linguistical study can be. Something I liked was just how detailed you are with explaining the layout and purposes of your repository in the `README.md` (something I wish more people took the time to do). Something I wish was improved however, would be explaining all the various metrics used in your analysis, as I was very confused reading them and didn't really know what they meant or why they were important. Something I learned is, once again, how to better use `pyplot()` and graphing in Python, which is something I feel like I struggle with a lot. Your graphs are extremely nice and I wish I understood `matplotlib` better.

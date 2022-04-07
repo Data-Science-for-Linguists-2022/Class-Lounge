@@ -37,3 +37,6 @@ Hi Emma, thank you so much for your comments, I agree adding some preliminary da
 - **One thing I learned:** It's my first time hearing about "plumbing a PDF"!
 
 Hello Caroline, your note about including comments is really great! there are times that I forget about that kind of stuff. It will make it easier for folks to offer suggestions to the code, so thank you!
+
+## Alejandro's Feedback
+I like this. I haven't really seen textual work that's in another language (let alone another script), so it's interesting to see how that has played out. Something that I like is that you have a very clear goal in mind and it seems very reasonable and manageable. However, I do think you can improve with your repository organization, `README.md`, and overall cleanliness of your Jupyter Notebooks. Something I learned is that Python has libraries for PDFs and PDF text extraction, I did not know that!
