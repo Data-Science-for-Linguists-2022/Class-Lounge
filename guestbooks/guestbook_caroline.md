@@ -32,6 +32,8 @@ as I was initially a bit confused by it.
 
 - **One thing I learned:** The existence of the UDS and CHILDES datasets! The CHILDES one sounds particularly interesting, I'm really excited to see what you do with it.
 
+> Thanks for the feedback, Rohan! I also didn't know about the existence of either one of these datasets before I started this project!
+
 ### Tianyi's Notes:
 
 - **One thing I liked:**
@@ -44,3 +46,5 @@ In `hicks_initial_exploration.ipynb`, I think it'd be best for you to leave out 
 In `uds_initial_exploration.ipynb`, most of the Python code blocks were never run, so I'm not sure what the output is meant to be (I'm guessing it's due to the error in the first code block, though).
 
 - **One thing I learned:** I think it's interesting that not only such datasets exist but also that the UDS organizes its data into a graphical format.
+
+> Thank you, Tianyi! I started out with a deecently solid plan, but it has been a struggle to do what I wanted to do with the UDS dataset because it is so massive and comes with its own toolkit. I have now fixed the thing that was causing the error in loading the dataset and toolkit!
