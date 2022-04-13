@@ -68,16 +68,22 @@ cod_tier = [u.tiers['%cod'] for u in hicks_utterances if '%cod' in u.tiers.keys(
 ```
 I guess you can then ignore the utterances without code tiers in your analysis.
 
-- **One thing I learned:** 
+- **One thing I learned:**
 It seems like the UDS dataset and decomp toolkit could be useful for me as well! I am not sure if I will have enough time to try them out in my project though...
 
 ### Kinan's Notes:
 - **One thing I liked:**
-  First off the hand waving thing on the README.md is soooo cute how did you do that. But actually speaking I really like the Data, Analysis, and Presentation part of your project in the Project Plan, it is very easy to follow and helps me follow whats going on with the other files. Your README.md directory is also very helpful in understanding what is where and what is what. 
-  
+  First off the hand waving thing on the README.md is soooo cute how did you do that. But actually speaking I really like the Data, Analysis, and Presentation part of your project in the Project Plan, it is very easy to follow and helps me follow whats going on with the other files. Your README.md directory is also very helpful in understanding what is where and what is what.
+
 - **One thing that could be improved:**
-  i think in your notebooks you could section things off more clearly? sometimes the outputs and the descriptions blend in together towards the end but also it could just be a work in progress. not a big deal at all. 
-  
-- **One thing I learned:** 
+  i think in your notebooks you could section things off more clearly? sometimes the outputs and the descriptions blend in together towards the end but also it could just be a work in progress. not a big deal at all.
+
+- **One thing I learned:**
   CHA files!!!
-- 
+-
+
+
+### Emma's Notes:
+- **What was done well:** Even in the project plan, you seem to have a very solid understanding of the data you're working with and what your end goal is for the analysis.  I like that you detailed all of the issues you had when working with the dataset--hopefully your frustration will be worth it, and some fortunate soul will stumble upon your progress report when trying to figure out the UDS data for themselves!
+- **What could be improved:** It might be nice to add a little description of each notebook to your README, just so its clear which notebook is for what, and in what order your created them (or intend someone to view them).
+- **One thing I learned:** I feel like a lot of people are working with very idiosyncratic file types, like CHA files here! I know you mentioned having separate code and data licenses, but I hadn't really considered including tool licenses (like for pylangacq).
