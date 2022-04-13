@@ -73,5 +73,11 @@ It seems like the UDS dataset and decomp toolkit could be useful for me as well!
 
 ### Kinan's Notes:
 - **One thing I liked:**
+  First off the hand waving thing on the README.md is soooo cute how did you do that. But actually speaking I really like the Data, Analysis, and Presentation part of your project in the Project Plan, it is very easy to follow and helps me follow whats going on with the other files. Your README.md directory is also very helpful in understanding what is where and what is what. 
+  
 - **One thing that could be improved:**
+  i think in your notebooks you could section things off more clearly? sometimes the outputs and the descriptions blend in together towards the end but also it could just be a work in progress. not a big deal at all. 
+  
 - **One thing I learned:** 
+  CHA files!!!
+- 
