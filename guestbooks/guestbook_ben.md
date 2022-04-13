@@ -53,7 +53,7 @@ Thank you for the feedback!
   - The citations at the progres plan is a good idea and now that I am going to be uisng spacy im gonna steal this from you <3 xoxo I also like the overview of the daat except the first code output cell kind of through me for a loop for a sec.
 
 - **What could be improved:**
-  - Your Read Me can have some descriptions of what each file means, I know we just moved on and got the requirements for progress report 3 so thats probably what you're going to be working on anyways. 
+  - Your Read Me can have some descriptions of what each file means, I know we just moved on and got the requirements for progress report 3 so thats probably what you're going to be working on anyways.
 
 - **One thing I learned:**
   - Subordinatitng cojunctions are good bc they explain the lingusitic contexts of whats going on. quod - because
@@ -68,3 +68,9 @@ Thank you for the feedback!
 
 - **One thing I learned:**
   -  I was not aware of the accusative + infinitive form of indirect speech. Your `oo_introduction.md` was really helpful! I think I should also include more background information in my own term project.
+
+### Emma's Feedback:
+
+- **What was done well:** I really like the structure of your README.  For GitHub at least, it's a very clear and succinct way of pointing the viewer exactly where they should go and in what order. Explaining what indirect speech is was super helpful! Your analysis plots are also very pretty--that pie chart is making me jealous.  You notebook is very well organized, too!
+- **What could be improved:** The link to the introduction on the README is dead (but it's fine in the progress report!).  Your code is also largely uncommented, so I was relying a lot on your explanations and visualizations (which were very good!).
+- **One thing I learned:** I hadn't really thought about the difference between a direct and indirect quote, and the way pronouns in English will change in the subordinate clause depending upon how the speech is introduced.  This was interesting--I liked that this project is equally balanced between language and computation!
