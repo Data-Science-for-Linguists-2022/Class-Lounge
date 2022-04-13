@@ -70,3 +70,8 @@ I guess you can then ignore the utterances without code tiers in your analysis.
 
 - **One thing I learned:** 
 It seems like the UDS dataset and decomp toolkit could be useful for me as well! I am not sure if I will have enough time to try them out in my project though...
+
+### Kinan's Notes:
+- **One thing I liked:**
+- **One thing that could be improved:**
+- **One thing I learned:** 
