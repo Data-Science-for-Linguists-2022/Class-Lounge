@@ -45,3 +45,11 @@ Your use of a file tree in the README to show off the contents of the repo was a
 
 - **One thing I learned:** Plots.
 You clearly know how to plot data in Python far better than I can and in ways that I didn't even know about.
+
+## Rohan's Feedback:
+
+- **What was done well:** Your project is so well-organized! I liked your extensive use of directories, and it was very clear where to go for anything your visitor might want to see.
+
+- **Possible Improvements:** The only thing that I would have liked to see was a little more explanation on why you made some of the choices you did (for example, having two licenses), but I'm really nitpicking here.
+
+- **One thing I learned:** I learned a lot about both Python and GitHub from your project! You clearly have a lot of skill with them, and as a relative beginner, it was interesting seeing what you did.
