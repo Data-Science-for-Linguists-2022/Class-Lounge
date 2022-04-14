@@ -77,3 +77,11 @@ Something I learned:  I like that you have an overview JNB to connnect every wor
 - **What could be improved:** It's not a huge detail, but linking the files on the README could make it easier to navigate the repository.  The data description file could include short descriptions of the games and the role of the text data, as well, just so the differences in the nature of each dataset are clear.
 - **One thing I learned:** I had forgotten how much text data can be stored in a video game.  I tend to only think of the coding behind games, but not about the dialogue & narratives within them.  
 (Sidenote: The Elder Scrolls dataset reminded me of this [BDG video](https://www.youtube.com/watch?v=RVdTZhmsGsU)).
+
+### Caroline's entry (2022-04-13)
+
+- **What was done well:** Pretty sure a lot of people have already mentioned this, but your *data_description.md* is really well done and a not required, yet welcome component of your repo. Also, your research notebook is well organized, and it seems like your analysis is off to a great start!
+
+- **Possible improvements:** You have a *README.md* for the *scripts* subdirectory of your main repo with a small blurb about what's going on in the subdirectory, but you don't have a *README.md* for either of your other two subdirectories. This isn't really an issue, but it may be nice for continuity's sake to add one to all your subdirectories or remove the one you currently have. I have to say, though, I kind of like the more specific *README.md* per subdirectory!
+
+- **One thing I learned:** *spaCy* named entity recognition!
