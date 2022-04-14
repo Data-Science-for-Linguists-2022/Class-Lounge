@@ -55,4 +55,5 @@ Something I learned - TAASCC is a very convenient tool to measure multiply lingu
 
 - **One thing I learned:** all about TAASSC! I was very interested to see all the syntactic measurements because we haven't tended to focus on them as much in other assignments. 
 	   
-	   
+## Alejandro's Feedback
+Nice use of the _PELIC_ dataset. I did not know what a _T-Unit_ was until I read your `README.md`. Something I like is that, in general, your repository is extremely clean and your data is presented nicely in your Jupyter Notebooks. However, I think one improvement could be looking at that weird issue you had with Korean speakers having a high amount of high-level essays by potentially taking multiple samples.

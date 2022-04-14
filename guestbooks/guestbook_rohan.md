@@ -56,3 +56,5 @@ I liked that you showed the data frame and examined parts of it; it makes it eas
 One possible improvement could be fleshing out the README file, since it is the first impression and a good place to get a high-level overview of the project and its structure.
 One thing I learned was in your data section, where you showed value counts for Rating and Category; I thought the results were interesting.
 
+## Alejandro's Feedback
+This is a really interesting project. I am surprised at the amount and varied fanfiction work you've collected. I really like how you went about collecting the data using a really robust framework. However, I see that you have trouble cleaning the data, which can be a problem for the presentation. I think you should try your best to take care of that as well as organize your `README.md` file better. I also learned that there's already over 150 _Encanto_ fanfics out there despite the movie only coming out a few months ago, which scares me.
