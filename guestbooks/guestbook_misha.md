@@ -45,3 +45,10 @@ I like this. I haven't really seen textual work that's in another language (let 
 I liked your README; I think it provides a good overview of the project and your goals.
 However, it could be improved by adding links to and descriptions of the files in your project.
 One thing I learned is that there is a Russian National corpus.
+
+## Rohan's Feedback
+- **What was done well:** You really built your project around your dataset, and generally I think your plan was really solid! It made a lot of sense to me reading it.
+
+- **Possible Improvements:** Your Jupyter Notebooks weren't really readable on my laptop, the printing of your data made my screen glitch up really badly for some reason. Besides that, I'm not really sure what your plans for analysis are. Your project seems very data-focused.
+
+- **One thing I learned:** It is a lot harder to get text data out of a pdf than I would have though it would be.
