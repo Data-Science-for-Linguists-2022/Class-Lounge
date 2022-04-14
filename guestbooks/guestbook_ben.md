@@ -74,3 +74,11 @@ Thank you for the feedback!
 - **What was done well:** I really like the structure of your README.  For GitHub at least, it's a very clear and succinct way of pointing the viewer exactly where they should go and in what order. Explaining what indirect speech is was super helpful! Your analysis plots are also very pretty--that pie chart is making me jealous.  You notebook is very well organized, too!
 - **What could be improved:** The link to the introduction on the README is dead (but it's fine in the progress report!).  Your code is also largely uncommented, so I was relying a lot on your explanations and visualizations (which were very good!).
 - **One thing I learned:** I hadn't really thought about the difference between a direct and indirect quote, and the way pronouns in English will change in the subordinate clause depending upon how the speech is introduced.  This was interesting--I liked that this project is equally balanced between language and computation!
+
+### Caroline's entry (2022-04-13)
+
+- **What was done well:** Your file introducing indirect speech in Latin was a great addition to your project repo! I took Latin in high school and have now, unfortunately, forgotten mostly everything I learned, so this was super helpful to read over before heading into the bulk of your data / analysis. 
+
+- **Possible improvements:** It would be great to see some comments in your actual code to document what is going on and make it easier for visitors to your repo to understand what you are doing. 
+
+- **One thing I learned:** Translation style could be affecting the structure used to introduce indirect speech, but it could also be a shift in the language.
