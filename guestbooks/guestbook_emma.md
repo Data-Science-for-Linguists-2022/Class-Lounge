@@ -48,10 +48,12 @@ I didn't know that "outsider music" was even a term, so it's very interesting th
 
 ## Kinan's Notes
 - **One thing I liked:**
-  I tell you this all the time but your readme is very nice, the summary before the directory helps the readers understand WHY each file exists not only just what it is which can help more with applying knowledge tbh which i personally liked. I also like the script analysis python file I need to do something like this for reading in my data properly and processing it and its been stressing me out but this helps a lot. 
-  
+  I tell you this all the time but your readme is very nice, the summary before the directory helps the readers understand WHY each file exists not only just what it is which can help more with applying knowledge tbh which i personally liked. I also like the script analysis python file I need to do something like this for reading in my data properly and processing it and its been stressing me out but this helps a lot.
+
 - **One thing that could be improved:**
   Data samples folder only has one thing in it are you gonna add anything else?
-  
+
 - **One thing I learned:**
-  I had no idea what Outsider music was so the defenition of that is something I learned. SPEAKING OF WHICH IT MIGHT BE COOL IF YOU COULD ATTACH A PLAYLIST OR SOMETHING SO PEOPLE COULD LIKE LISTEN TO A SONG AND LIKE FULLY BE IN IT 
+  I had no idea what Outsider music was so the defenition of that is something I learned. SPEAKING OF WHICH IT MIGHT BE COOL IF YOU COULD ATTACH A PLAYLIST OR SOMETHING SO PEOPLE COULD LIKE LISTEN TO A SONG AND LIKE FULLY BE IN IT
+
+***Thank you, Kinan! I'm leaving my data samples folder limited for now, mostly because I am afraid of Genius.  I may upload an annotated pdf (or something similar) to  make it clearer how the JSON file is structured and what data I'm using here. Also, I will definitely have song demos for my presentation, but a playlist is a good idea! --Emma***
