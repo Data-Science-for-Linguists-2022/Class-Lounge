@@ -77,7 +77,7 @@ for i in range(len(df)):
 ...
 ```
 
-Also, in this line `lyricsdf[lyricsdf.lyrics.duplicated()].tail(20)`, I think it's printing correctly the duplicated rows except the first occurance (e.g. printing only 2 entries out 3 entries which have the same lyrics). Is that what you intended to print?
+Also, in this line `lyricsdf[lyricsdf.lyrics.duplicated()].tail(20)`, I think it's printing correctly the duplicated rows except the first occurance (e.g. printing only 2 entries out of 3 entries which have the same lyrics). Is that what you intended to print?
 
 - **One thing I learned:**
-Like other folks, I had no ideas what outsider music was! It's very interesting to look at how outsider music is different from other genres linguistics! By the way, I guess I am sort of like an 'outsider linguist' in this sense as I didn't have formal training in linguistics and computer science. Knowing that there are successful 'outsiders' like me is very encouraging!
+Like other folks, I had no ideas what outsider music was! It's very interesting to look at how outsider music is different from other genres linguistically! By the way, I guess I am sort of like an 'outsider linguist' in this sense as I didn't have formal training in linguistics or computer science. Knowing that there are successful 'outsiders' is very encouraging!
