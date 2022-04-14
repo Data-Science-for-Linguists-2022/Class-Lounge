@@ -31,7 +31,7 @@ as I was initially a bit confused by it.
 
 - **One thing I learned:** I learned about another model of Decompositional Semantics, so that's always exciting. The coding seems intense! I would give pustejovsky's qualia theory a look if you haven't gotten the chance before.
 
-> Thanks for your comments, Misha! For my presentation and final project submission, I am hoping to include a write-up from my own perspective, informed by the original UDS  paper, about the implications of the UDS framework pertaining to other types of langauge datasets. I would have liked to look into this more, but, yeah, the UDS dataset / decomp toolkit threw me for quite a loop, so I wasn't able to do exactly what I originally envisioned. 
+> Thanks for your comments, Misha! For my presentation and final project submission, I am hoping to include a write-up from my own perspective, informed by the original UDS  paper, about the implications of the UDS framework pertaining to other types of language datasets. I would have liked to look into this more, but, yeah, the UDS dataset / decomp toolkit threw me for quite a loop, so I wasn't able to do exactly what I originally envisioned. 
 
 ### Rohan's Notes:
 
