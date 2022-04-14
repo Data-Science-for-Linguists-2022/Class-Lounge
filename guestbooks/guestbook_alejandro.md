@@ -85,3 +85,7 @@ Something I learned:  I like that you have an overview JNB to connnect every wor
 - **Possible improvements:** You have a *README.md* for the *scripts* subdirectory of your main repo with a small blurb about what's going on in the subdirectory, but you don't have a *README.md* for either of your other two subdirectories. This isn't really an issue, but it may be nice for continuity's sake to add one to all your subdirectories or remove the one you currently have. I have to say, though, I kind of like the more specific *README.md* per subdirectory!
 
 - **One thing I learned:** *spaCy* named entity recognition!
+
+### Ben's Entry
+Your README was very well laid out; the data description file was really helpful and made it easy to get a high-level overview of the data and its structure. One potential improvement could be having a consistent coloring/style scheme for your plots. The differences between the games were quite interesting!
+
