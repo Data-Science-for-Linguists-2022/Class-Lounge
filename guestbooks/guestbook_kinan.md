@@ -44,9 +44,9 @@ For example, in the little snippet of the word tokens that I can see in `UN_Data
 
 - **What was done well**: You looked at the data carefully and figured out that there was a parsing problem for Mandarin. You also switched to SpaCy (which we just learned in the class) to fix that problem.
 
-- **What could be improved**: Like what other folks said above, the parsing of Mandarin words was wrong because of the nature of Chinese orthography: each character represents a syllable (and generally a morpheme; sometimes a part of a morpheme). Besides, there are no space between two words. Therefore, NLTK simply parse the whole phrase/sentence separated by punctuations as one word/token. SpaCy was doing a proper job here.  
+- **What could be improved**: Like what other folks said above, the parsing of Mandarin words was wrong because of the nature of Chinese orthography: each character represents a syllable (and generally a morpheme; sometimes a part of a morpheme). Besides, there are no space between two words. Therefore, NLTK simply parses the whole phrase/sentence separated by punctuations as one word/token. SpaCy was doing a proper job here.  
 However, I found another problem due to this orthography issue: in `SpaCyNLP.ipynb`, you are slicing the first 1000 characters (incl. punctuation):
 `mandarin_samp = mandarin100[:1000]`
-The problem is, as I said, each Chinese characters is a morpheme or a syllable. Therefore, the information contained in this 1000 character-slice is different from, say, what you got from English (which is just the first 1000 letters (incl. some punctuations)). You may run into a similar problem for Arabic which uses abjad alphabet (so one character is probably one syllable, unlike in English where one character is just one letter).
+The problem is, as I said, each Chinese character is a morpheme or a syllable. Therefore, the information contained in this 1000 character-slice is different from, say, what you got from English (which is just the first 1000 letters (incl. some punctuations)). You may run into the similar problem for Arabic which uses abjad alphabet (so one character could be one syllable, unlike in English where one character is just one letter).
 
 - **What I learned**:  SpaCy performs very well on parsing Mandarin. I will try SpaCy first if I need to work on Mandarin data in the future!
