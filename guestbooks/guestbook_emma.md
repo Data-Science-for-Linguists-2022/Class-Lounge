@@ -57,3 +57,27 @@ I didn't know that "outsider music" was even a term, so it's very interesting th
   I had no idea what Outsider music was so the defenition of that is something I learned. SPEAKING OF WHICH IT MIGHT BE COOL IF YOU COULD ATTACH A PLAYLIST OR SOMETHING SO PEOPLE COULD LIKE LISTEN TO A SONG AND LIKE FULLY BE IN IT
 
 ***Thank you, Kinan! I'm leaving my data samples folder limited for now, mostly because I am afraid of Genius.  I may upload an annotated pdf (or something similar) to  make it clearer how the JSON file is structured and what data I'm using here. Also, I will definitely have song demos for my presentation, but a playlist is a good idea! --Emma***
+
+## Man Ho's Notes
+- **One thing I liked:**
+  I like how well organized your files are: you explained what each notebook does and how it is related to other notebook. I like the idea that you numbered your notebooks - this makes your repo so easy to follow!
+  
+- **One thing that could be improved:**
+  I just have some minor suggestions:  
+  In `3_data_cleaning_and_exploration.ipynb`, you have:  
+```
+i = 0
+while i != len(df):
+...
+i = i+1
+```
+But I think a for loop is probably a bit more efficient (so in each iteration, you don't need to do `i = i+1` operation):
+```
+for i in range(len(df)):
+...
+```
+
+Also, in this line `lyricsdf[lyricsdf.lyrics.duplicated()].tail(20)`, I think it's printing correctly the duplicated rows except the first occurance (e.g. printing only 2 entries out 3 entries which have the same lyrics). Is that what you intended to print?
+
+- **One thing I learned:**
+Like other folks, I had no ideas what outsider music was! It's very interesting to look at how outsider music is different from other genres linguistics! By the way, I guess I am sort of like an 'outsider linguist' in this sense as I didn't have formal training in linguistics and computer science. Knowing that there are successful 'outsiders' like me is very encouraging!
