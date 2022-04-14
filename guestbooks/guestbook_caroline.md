@@ -31,6 +31,8 @@ as I was initially a bit confused by it.
 
 - **One thing I learned:** I learned about another model of Decompositional Semantics, so that's always exciting. The coding seems intense! I would give pustejovsky's qualia theory a look if you haven't gotten the chance before.
 
+> Thanks for your comments, Misha! For my presentation and final project submission, I am hoping to include a write-up from my own perspective, informed by the original UDS  paper, about the implications of the UDS framework pertaining to other types of langauge datasets. I would have liked to look into this more, but, yeah, the UDS dataset / decomp toolkit threw me for quite a loop, so I wasn't able to do exactly what I originally envisioned. 
+
 ### Rohan's Notes:
 
 - **One thing I liked:** Your project is fascinating! I really like the idea of taking two datasets that study different things and examining them through the context of the other one. I hope you get all your data figured out, I think the analysis should be fascinating!
@@ -71,6 +73,8 @@ I guess you can then ignore the utterances without code tiers in your analysis.
 - **One thing I learned:**
 It seems like the UDS dataset and decomp toolkit could be useful for me as well! I am not sure if I will have enough time to try them out in my project though...
 
+> Thanks Man Ho! Your code suggestion was helpful and appreciated, and I was able to successfully access the code tier. It's annoying that some of the utterances don't have the code tier, though, since that's what I am interested in!
+
 ### Kinan's Notes:
 - **One thing I liked:**
   First off the hand waving thing on the README.md is soooo cute how did you do that. But actually speaking I really like the Data, Analysis, and Presentation part of your project in the Project Plan, it is very easy to follow and helps me follow whats going on with the other files. Your README.md directory is also very helpful in understanding what is where and what is what.
@@ -80,7 +84,7 @@ It seems like the UDS dataset and decomp toolkit could be useful for me as well!
 
 - **One thing I learned:**
   CHA files!!!
--
+
 
 
 ### Emma's Notes:
