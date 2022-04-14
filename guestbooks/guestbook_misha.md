@@ -45,3 +45,14 @@ I like this. I haven't really seen textual work that's in another language (let 
 I liked your README; I think it provides a good overview of the project and your goals.
 However, it could be improved by adding links to and descriptions of the files in your project.
 One thing I learned is that there is a Russian National corpus.
+
+## Tianyi's Feedback
+
+- **One thing that was done well:** I really appreciate the detail that you put into your project plan and the commentary that you put into your progress reports.
+It's good that you've been documenting your data processing journey in depth and being transparent about hurdles that you've run into.
+
+- **One thing that could be improved:** I think it'd help if you could provide some commentary about some of the errors that you hit into your code.
+Like Caroline said, something about what you were trying to do with the code would help.
+
+- **One thing that I learned:** This is the first time that I've heard of automatic extraction of text from PDFs in python, and honestly it's really cool that you're working with that for your project.
+I can definitely see this package as a potential starting point for some personal coding projects for myself.

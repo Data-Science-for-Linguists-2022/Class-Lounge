@@ -58,3 +58,13 @@ One thing I learned was in your data section, where you showed value counts for 
 
 ## Alejandro's Feedback
 This is a really interesting project. I am surprised at the amount and varied fanfiction work you've collected. I really like how you went about collecting the data using a really robust framework. However, I see that you have trouble cleaning the data, which can be a problem for the presentation. I think you should try your best to take care of that as well as organize your `README.md` file better. I also learned that there's already over 150 _Encanto_ fanfics out there despite the movie only coming out a few months ago, which scares me.
+
+## Tianyi's Feedback
+
+- **One thing that was done well:** Your data collection journey in general is really impressive.
+It's cool how you essentially constructed your own dataset from scratch with just (a lot of) Python code.
+Very cool!
+
+- **One thing that could be improved:** I think you could elaborate on your project goals a bit more in your README—maybe just a couple lines about what you did/plan to do for the project (data procurement, analysis, etc.).
+
+- **One thing that I learned:** I learned just how many of the fanfics are explicit (though to be honest I shouldn't be surprised).
